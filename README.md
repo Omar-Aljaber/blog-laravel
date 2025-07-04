@@ -1,16 +1,5 @@
 # Laravel Basics – Task Management App
 
-This is the source code for the **Task Management App** built as part of the **Laravel Basics Track** in the course **"PHP Web Application Development"** offered by [Hsoub Academy](https://academy.hsoub.com/learn/php-web-application-development/).
-
----
-
-## 📚 Course
-
-**PHP Web Application Development**\
-Learn to build modern web applications using PHP and the Laravel framework through real-world projects.
-
----
-
 ## ⚙️ Project Installation Steps
 
 1. Clone the repository:
